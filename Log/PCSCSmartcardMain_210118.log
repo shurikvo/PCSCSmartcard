@@ -1,0 +1,10 @@
+18.01.21 10:22:33	INF	PCSCSmartcardMain: Start
+18.01.21 10:22:33	INF	0: ACS ACR1281 1S Dual Reader ICC 0
+18.01.21 10:22:33	INF	1: ACS ACR1281 1S Dual Reader PICC 0
+18.01.21 10:22:33	INF	2: ACS ACR1281 1S Dual Reader SAM 0
+18.01.21 10:22:33	INF	3: JAVACOS Virtual Contact Reader 0
+18.01.21 10:22:33	INF	4: JAVACOS Virtual Contactless Reader 1
+18.01.21 10:22:33	INF	5: jNet Virtual CAD Reader 0
+18.01.21 10:22:33	INF	6: OMNIKEY CardMan 3x21 0
+18.01.21 10:22:51	INF	Reader: 1
+18.01.21 10:22:51	ERR	connectCard: javax.smartcardio.CardNotPresentException: No card present
